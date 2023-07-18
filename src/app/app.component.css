@@ -1,0 +1,35 @@
+h1 {
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.box-title {
+    height: 30px;
+    border-radius: 5px;
+    margin-top: 20px;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.box-message {
+    max-width: 450px;
+    margin: 0 auto;
+    background-color: rgb(255, 230, 0);
+    border: 2px solid orange;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.4);
+}
+
+.message {
+    color: darkblue;
+    font-size: 50px;
+    text-align: center;
+}
